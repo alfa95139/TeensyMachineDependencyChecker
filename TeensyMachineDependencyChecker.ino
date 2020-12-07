@@ -26,10 +26,6 @@
   } tmpBitfield;
 
 void setup() {
-  
-  FILE    *f;
-  char    *path;
-  time_t    tp;
 
   Serial.begin(115200);
 
